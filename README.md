@@ -6,15 +6,50 @@
 ---
 
 ### Quick Links
-  - [Agent Tool Use](#Agent-Too-Use)
-  - [GUI Operation](#GUI-Operation)
-  - [Evaluation](#Evaluation)
-  - [Survey](#Survey)
-  - [Background](#Background)
+  - [Agent Tool Use](#agent-tool-use)
+    - [Search Tool](#search-tool)
+    - [Image Manipulation (Crop/Rotate)](#image-manipulation-croprotate)
+    - [Code Tool](#code-tool)
+    - [Other Tools](#other-tools)
+    - [Dynamic Tool Creation (Sandbox)](#dynamic-tool-creation-sandbox)
+  - [GUI Operation](#gui-operation)
+  - [Evaluation](#evaluation)
+  - [Survey](#survey)
+  - [Background](#background)
 
 
 ### Agent Tool Use
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/Liuziyu77/Visual-RFT.svg?style=social&label=Star)](https://github.com/Liuziyu77/Visual-RFT) [![Publish](https://img.shields.io/badge/Conference-ICCV_2025-blue)]()<br>[Visual Agentic Reinforcement Fine-Tuning](https://arxiv.org/abs/2505.14246v1) <br> Ziyu Liu, Yuhang Zang, Yushan Zou, Zijian Liang, Xiaoyi Dong, Yuhang Cao, Haodong Duan, Dahua Lin, Jiaqi Wang |<img width="1002" alt="image" src="https://arxiv.org/html/2505.14246v1/x2.png"> |[Github](https://github.com/Liuziyu77/Visual-RFT) <br> [Paper](https://arxiv.org/abs/2505.14246v1)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/zhaochen0110/OpenThinkIMG.svg?style=social&label=Star)](https://github.com/zhaochen0110/OpenThinkIMG)<br>[OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/abs/2505.08617v2) <br> Zhaochen Su, Linjie Li, Mingyang Song, Yunzhuo Hao, Zhengyuan Yang, Jun Zhang, Guanjie Chen, Jiawei Gu, Juntao Li, Xiaoye Qu, Yu Cheng |<img width="1002" alt="image" src="https://arxiv.org/html/2505.08617v2/x1.png"> |[Github](https://github.com/zhaochen0110/OpenThinkIMG) <br> [Paper](https://arxiv.org/abs/2505.08617v2)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/RUC-NLPIR/WebThinker.svg?style=social&label=Star)](https://github.com/RUC-NLPIR/WebThinker)<br>[WebThinker: Empowering Large Reasoning Models with Deep Research Capability](https://arxiv.org/abs/2504.21776) <br> Xiaoxi Li, Jiajie Jin, Guanting Dong, Hongjin Qian, Yutao Zhu, Yongkang Wu, Ji-Rong Wen, Zhicheng Dou |<img width="1002" alt="image" src="https://github.com/RUC-NLPIR/WebThinker/raw/main/figures/framework.png"> |[Github](https://github.com/RUC-NLPIR/WebThinker) <br> [Paper](https://arxiv.org/abs/2504.21776)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/agents-x-project/PyVision.svg?style=social&label=Star)](https://github.com/agents-x-project/PyVision)<br>[PyVision: Agentic Vision with Dynamic Tooling](https://arxiv.org/abs/2507.07998) <br> Shitian Zhao, Haoquan Zhang, Shaoheng Lin, Ming Li, Qilong Wu, Kaipeng Zhang, Chen Wei |<img width="1002" alt="image" src="figures/PyVision.png"> |[Github](https://github.com/agents-x-project/PyVision) <br> [Paper](https://arxiv.org/abs/2507.07998)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/Alibaba-NLP/WebAgent.svg?style=social&label=Star)](https://github.com/Alibaba-NLP/WebAgent)<br>[WebSailor: Navigating Super-human Reasoning for Web Agent](https://arxiv.org/abs/2507.02592) <br> Kuan Li, Zhongwang Zhang, Huifeng Yin, Liwen Zhang, Litu Ou, Jialong Wu, Wenbiao Yin, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang, Ming Yan, Pengjun Xie, Fei Huang, Jingren Zhou |<img width="1002" alt="image" src="figures/WebSailor.png"> |[Github](https://github.com/Alibaba-NLP/WebAgent) <br> [Paper](https://arxiv.org/abs/2507.02592)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/sunnynexus/Search-o1.svg?style=social&label=Star)](https://github.com/sunnynexus/Search-o1)<br>[Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366) <br> Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, Zhicheng Dou |<img width="1002" alt="image" src="https://arxiv.org/html/2501.05366v1/x2.png"> |[Github](https://github.com/sunnynexus/Search-o1) <br> [Paper](https://arxiv.org/abs/2501.05366)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)<br>[MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670) <br> Jinming Wu, Zihao Deng, Wei Li, Yiding Liu, Bo You, Bo Li, Zejun Ma, Ziwei Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2506.20670v1/x1.png"> |[Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) <br> [Paper](https://arxiv.org/abs/2506.20670)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch.svg?style=social&label=Star)](https://github.com/yhy-2000/VideoDeepResearch)<br>[VideoDeepResearch: Long Video Understanding With Agentic Tool Using](https://arxiv.org/abs/2506.10821) <br> Huaying Yuan, Zheng Liu, Junjie Zhou, Hongjin Qian, Ji-Rong Wen, Zhicheng Dou |<img width="1002" alt="image" src="https://arxiv.org/html/2506.10821v2/x2.png"> |[Github](https://github.com/yhy-2000/VideoDeepResearch) <br> [Paper](https://arxiv.org/abs/2506.10821)| [//]: #07/14
+#### Benchmark
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/CaraJ7/MMSearch.svg?style=social&label=Star)](https://github.com/CaraJ7/MMSearch) [![Publish](https://img.shields.io/badge/Conference-ICLR_2025-blue)]()<br>[MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://arxiv.org/abs/2409.12959v2) <br> Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Chaoyou Fu, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li |<img width="1002" alt="image" src="https://arxiv.org/html/2409.12959v2/x1.png"> |[Github](https://github.com/CaraJ7/MMSearch) <br> [Paper](https://arxiv.org/abs/2409.12959v2)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/osu-nlp-group/mind2web2.svg?style=social&label=Star)](https://github.com/osu-nlp-group/mind2web2)<br>[Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506) <br> Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su |<img width="1002" alt="image" src="https://github.com/OSU-NLP-Group/Mind2Web-2/raw/main/assets/mind2web2_overview.jpg"> |[Github](https://github.com/osu-nlp-group/mind2web2) <br> [Paper](https://arxiv.org/abs/2506.21506)| [//]: #07/14
 
+#### Search Tool
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+#### Image Manipulation (Crop/Rotate)
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+#### Code Tool
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+#### Other Tools
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+#### Dynamic Tool Creation (Sandbox)
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
 ### GUI Operation
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
