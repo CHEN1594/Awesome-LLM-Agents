@@ -74,7 +74,10 @@
 |:--|  :----: | :---:|
 |[GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) <br> Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuhan Che, Shuai Yu, Xinlong Hao, Kun Shao, Bin Wang, Chuhan Wu, Yasheng Wang, Ruiming Tang, Jianye Hao |<img width="1002" alt="image" src="https://arxiv.org/html/2411.04890v2/x2.png"> |[Paper](https://arxiv.org/abs/2411.04890)| [//]: #07/14
 ### Background
-
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent-KB.svg?style=social&label=Star)](https://github.com/OPPO-PersonalAI/Agent-KB)<br>[Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) <br> Xiangru Tang, Tianrui Qin, Tianhao Peng, Ziyang Zhou, Daniel Shao, Tingting Du, Xinming Wei, Peng Xia, Fang Wu, He Zhu, Ge Zhang, Jiaheng Liu, Xingyao Wang, Sirui Hong, Chenglin Wu, Hao Cheng, Chi Wang, Wangchunshu Zhou |<img width="1002" alt="image" src="https://github.com/OPPO-PersonalAI/Agent-KB/raw/master/assets/agent_kb.png"> |[Github](https://github.com/OPPO-PersonalAI/Agent-KB) <br> [Paper](https://arxiv.org/abs/2507.06229)| [//]: #07/14
+|[]() <br>  |<img width="1002" alt="image" src=""> |[Paper]()| [//]: #07/14
 ## Acknowledgement
 
 This repository is inspired by [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) and [Awesome-Efficient-Reasoning-Models
