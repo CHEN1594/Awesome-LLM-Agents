@@ -61,6 +61,11 @@
 
 ### Survey
 #### Tool
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/jingyi0000/VLM_survey.svg?style=social&label=Star)](https://github.com/jingyi0000/VLM_survey) [![Publish](https://img.shields.io/badge/Conference-TPAMI_2024-blue)]()<br>[Vision-Language Models for Vision Tasks: A Survey](https://arxiv.org/abs/2304.00685) <br> Jingyi Zhang, Jiaxing Huang, Sheng Jin, Shijian Lu |<img width="1002" alt="image" src="https://arxiv.org/html/2304.00685v2/x4.png"> |[Github](https://github.com/jingyi0000/VLM_survey) <br> [Paper](https://arxiv.org/abs/2304.00685)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/quchangle1/LLM-Tool-Survey.svg?style=social&label=Star)](https://github.com/quchangle1/LLM-Tool-Survey) [![Publish](https://img.shields.io/badge/Conference-FCS_2025-blue)]()<br>[Tool Learning with Large Language Models: A Survey](https://arxiv.org/abs/2405.17935v1) <br> Changle Qu, Sunhao Dai, Xiaochi Wei, Hengyi Cai, Shuaiqiang Wang, Dawei Yin, Jun Xu, Ji-Rong Wen |<img width="1002" alt="image" src="https://arxiv.org/html/2405.17935v1/x2.png"> |[Github](https://github.com/quchangle1/LLM-Tool-Survey) <br> [Paper](https://arxiv.org/abs/2405.17935v1)| [//]: #07/14
+|[What Are Tools Anyway? A Survey from the Language Model Perspective](https://arxiv.org/abs/2403.15452) <br> Zhiruo Wang, Zhoujun Cheng, Hao Zhu, Daniel Fried, Graham Neubig |<img width="1002" alt="image" src="https://arxiv.org/html/2403.15452v1/x1.png"> |[Paper](https://arxiv.org/abs/2403.15452)| [//]: #07/14
 #### GUI
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
