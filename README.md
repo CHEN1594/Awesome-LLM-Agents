@@ -2,6 +2,11 @@
   <h2><b> Awesome-LLM-Agents </b></h2>
 </div>
 
+<div align="center">
+![](https://img.shields.io/github/stars/CHEN1594/Awesome-LLM-Agents?color=yellow)
+![](https://img.shields.io/github/last-commit/CHEN1594/Awesome-LLM-Agents?color=green)
+![](https://img.shields.io/badge/PRs-Welcome-blue)
+</div>
 ## Full list
 ---
 
