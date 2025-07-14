@@ -9,7 +9,6 @@
 </div>
 
 ## Full list
----
 
 ### Quick Links
   - [Agent Tool Use](#agent-tool-use)
@@ -37,12 +36,6 @@
 |[![Star](https://img.shields.io/github/stars/sunnynexus/Search-o1.svg?style=social&label=Star)](https://github.com/sunnynexus/Search-o1)<br>[Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366) <br> Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, Zhicheng Dou |<img width="1002" alt="image" src="https://arxiv.org/html/2501.05366v1/x2.png"> |[Github](https://github.com/sunnynexus/Search-o1) <br> [Paper](https://arxiv.org/abs/2501.05366)| [//]: #07/14
 |[![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)<br>[MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670) <br> Jinming Wu, Zihao Deng, Wei Li, Yiding Liu, Bo You, Bo Li, Zejun Ma, Ziwei Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2506.20670v1/x1.png"> |[Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) <br> [Paper](https://arxiv.org/abs/2506.20670)| [//]: #07/14
 |[![Star](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch.svg?style=social&label=Star)](https://github.com/yhy-2000/VideoDeepResearch)<br>[VideoDeepResearch: Long Video Understanding With Agentic Tool Using](https://arxiv.org/abs/2506.10821) <br> Huaying Yuan, Zheng Liu, Junjie Zhou, Hongjin Qian, Ji-Rong Wen, Zhicheng Dou |<img width="1002" alt="image" src="https://arxiv.org/html/2506.10821v2/x2.png"> |[Github](https://github.com/yhy-2000/VideoDeepResearch) <br> [Paper](https://arxiv.org/abs/2506.10821)| [//]: #07/14
-#### Benchmark
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
-|[![Star](https://img.shields.io/github/stars/CaraJ7/MMSearch.svg?style=social&label=Star)](https://github.com/CaraJ7/MMSearch) [![Publish](https://img.shields.io/badge/Conference-ICLR_2025-blue)]()<br>[MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://arxiv.org/abs/2409.12959v2) <br> Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Chaoyou Fu, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li |<img width="1002" alt="image" src="https://arxiv.org/html/2409.12959v2/x1.png"> |[Github](https://github.com/CaraJ7/MMSearch) <br> [Paper](https://arxiv.org/abs/2409.12959v2)| [//]: #07/14
-|[![Star](https://img.shields.io/github/stars/osu-nlp-group/mind2web2.svg?style=social&label=Star)](https://github.com/osu-nlp-group/mind2web2)<br>[Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506) <br> Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su |<img width="1002" alt="image" src="https://github.com/OSU-NLP-Group/Mind2Web-2/raw/main/assets/mind2web2_overview.jpg"> |[Github](https://github.com/osu-nlp-group/mind2web2) <br> [Paper](https://arxiv.org/abs/2506.21506)| [//]: #07/14
-
 #### Search Tool
 
 #### Image Manipulation (Crop/Rotate)
@@ -64,6 +57,10 @@
 |[![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)<br>[Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation](https://arxiv.org/abs/2506.04614) <br> Yuyang Wanyan, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Jiabo Ye, Yutong Kou, Ming Yan, Fei Huang, Xiaoshan Yang, Weiming Dong, Changsheng Xu |<img width="1002" alt="image" src="https://arxiv.org/html/2506.04614v1/x2.png"> |[Github](https://github.com/X-PLUG/MobileAgent) <br> [Paper](https://arxiv.org/abs/2506.04614)| [//]: #07/13
 |[![Star](https://img.shields.io/github/stars/penghao-wu/GUI_Reflection.svg?style=social&label=Star)](https://github.com/penghao-wu/GUI_Reflection)<br>[GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](https://arxiv.org/abs/2506.08012) <br> Penghao Wu, Shengnan Ma, Bo Wang, Jiaheng Yu, Lewei Lu, Ziwei Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2506.08012v1/x2.png"> |[Github](https://github.com/penghao-wu/GUI_Reflection) <br> [Paper](https://arxiv.org/abs/2506.08012)| [//]: #07/13
 ### Evaluation
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/CaraJ7/MMSearch.svg?style=social&label=Star)](https://github.com/CaraJ7/MMSearch) [![Publish](https://img.shields.io/badge/Conference-ICLR_2025-blue)]()<br>[MMSearch: Benchmarking the Potential of Large Models as Multi-modal Search Engines](https://arxiv.org/abs/2409.12959v2) <br> Dongzhi Jiang, Renrui Zhang, Ziyu Guo, Yanmin Wu, Jiayi Lei, Pengshuo Qiu, Pan Lu, Zehui Chen, Chaoyou Fu, Guanglu Song, Peng Gao, Yu Liu, Chunyuan Li, Hongsheng Li |<img width="1002" alt="image" src="https://arxiv.org/html/2409.12959v2/x1.png"> |[Github](https://github.com/CaraJ7/MMSearch) <br> [Paper](https://arxiv.org/abs/2409.12959v2)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/osu-nlp-group/mind2web2.svg?style=social&label=Star)](https://github.com/osu-nlp-group/mind2web2)<br>[Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506) <br> Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su |<img width="1002" alt="image" src="https://github.com/OSU-NLP-Group/Mind2Web-2/raw/main/assets/mind2web2_overview.jpg"> |[Github](https://github.com/osu-nlp-group/mind2web2) <br> [Paper](https://arxiv.org/abs/2506.21506)| [//]: #07/14
 
 ### Survey
 #### Tool
