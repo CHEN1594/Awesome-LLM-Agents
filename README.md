@@ -18,6 +18,7 @@
     - [Other Tools](#other-tools)
     - [Dynamic Tool Creation (Sandbox)](#dynamic-tool-creation-sandbox)
   - [GUI Operation](#gui-operation)
+  - [Domain-Specific Agents](#domain-specific-agents)
   - [Evaluation](#evaluation)
   - [Survey](#survey)
     - [Tool](#tool)
@@ -56,6 +57,12 @@
 |[![Star](https://img.shields.io/github/stars/sunblaze-ucb/AgentSynth.svg?style=social&label=Star)](https://github.com/sunblaze-ucb/AgentSynth)<br>[AgentSynth: Scalable Task Generation for Generalist Computer-Use Agents](https://arxiv.org/abs/2506.14205) <br> Jingxu Xie, Dylan Xu, Xuandong Zhao, Dawn Song |<img width="1002" alt="image" src="figures/AgentSynth.png"> |[Github](https://github.com/sunblaze-ucb/AgentSynth) <br> [Paper](https://arxiv.org/abs/2506.14205)| [//]: #07/13
 |[![Star](https://img.shields.io/github/stars/X-PLUG/MobileAgent.svg?style=social&label=Star)](https://github.com/X-PLUG/MobileAgent)<br>[Look Before You Leap: A GUI-Critic-R1 Model for Pre-Operative Error Diagnosis in GUI Automation](https://arxiv.org/abs/2506.04614) <br> Yuyang Wanyan, Xi Zhang, Haiyang Xu, Haowei Liu, Junyang Wang, Jiabo Ye, Yutong Kou, Ming Yan, Fei Huang, Xiaoshan Yang, Weiming Dong, Changsheng Xu |<img width="1002" alt="image" src="https://arxiv.org/html/2506.04614v1/x2.png"> |[Github](https://github.com/X-PLUG/MobileAgent) <br> [Paper](https://arxiv.org/abs/2506.04614)| [//]: #07/13
 |[![Star](https://img.shields.io/github/stars/penghao-wu/GUI_Reflection.svg?style=social&label=Star)](https://github.com/penghao-wu/GUI_Reflection)<br>[GUI-Reflection: Empowering Multimodal GUI Models with Self-Reflection Behavior](https://arxiv.org/abs/2506.08012) <br> Penghao Wu, Shengnan Ma, Bo Wang, Jiaheng Yu, Lewei Lu, Ziwei Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2506.08012v1/x2.png"> |[Github](https://github.com/penghao-wu/GUI_Reflection) <br> [Paper](https://arxiv.org/abs/2506.08012)| [//]: #07/13
+### Domain-Specific Agents
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[QUITE: A Query Rewrite System Beyond Rules with LLM Agents](https://arxiv.org/abs/2506.07675) <br> Yuyang Song, Hanxu Yan, Jiale Lao, Yibo Wang, Yufei Li, Yuanchun Zhou, Jianguo Wang, Mingjie Tang |<img width="1002" alt="image" src="https://arxiv.org/html/2506.07675v2/x3.png"> |[Paper](https://arxiv.org/abs/2506.07675)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/AIGeeksGroup/PresentAgent.svg?style=social&label=Star)](https://github.com/AIGeeksGroup/PresentAgent)<br>[PresentAgent: Multimodal Agent for Presentation Video Generation](https://www.arxiv.org/abs/2507.04036) <br> Jingwei Shi, Zeyu Zhang, Biao Wu, Yanjie Liang, Meng Fang, Ling Chen, Yang Zhao |<img width="1002" alt="image" src="https://arxiv.org/html/2507.04036v1/x3.png"> |[Github](https://github.com/AIGeeksGroup/PresentAgent) <br> [Paper](https://www.arxiv.org/abs/2507.04036)| [//]: #07/14
+|[![Star](https://img.shields.io/github/stars/innovatingAI/AutoMind.svg?style=social&label=Star)](https://github.com/innovatingAI/AutoMind)<br>[AutoMind: Adaptive Knowledgeable Agent for Automated Data Science](https://arxiv.org/abs/2506.10974) <br> Yixin Ou, Yujie Luo, Jingsheng Zheng, Lanning Wei, Shuofei Qiao, Jintian Zhang, Da Zheng, Huajun Chen, Ningyu Zhang |<img width="1002" alt="image" src="https://github.com/InnovatingAI/AutoMind/raw/main/assets/framework.png"> |[Github](https://github.com/innovatingAI/AutoMind) <br> [Paper](https://arxiv.org/abs/2506.10974)| [//]: #07/14
 ### Evaluation
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
@@ -77,8 +84,7 @@
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent-KB.svg?style=social&label=Star)](https://github.com/OPPO-PersonalAI/Agent-KB)<br>[Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) <br> Xiangru Tang, Tianrui Qin, Tianhao Peng, Ziyang Zhou, Daniel Shao, Tingting Du, Xinming Wei, Peng Xia, Fang Wu, He Zhu, Ge Zhang, Jiaheng Liu, Xingyao Wang, Sirui Hong, Chenglin Wu, Hao Cheng, Chi Wang, Wangchunshu Zhou |<img width="1002" alt="image" src="https://github.com/OPPO-PersonalAI/Agent-KB/raw/master/assets/agent_kb.png"> |[Github](https://github.com/OPPO-PersonalAI/Agent-KB) <br> [Paper](https://arxiv.org/abs/2507.06229)| [//]: #07/14
-|[]() <br>  |<img width="1002" alt="image" src=""> |[Paper]()| [//]: #07/14
-## Acknowledgement
 
+## Acknowledgement
 This repository is inspired by [Awesome-Efficient-LLM](https://github.com/horseee/Awesome-Efficient-LLM/) and [Awesome-Efficient-Reasoning-Models
 ](https://github.com/fscdc/Awesome-Efficient-Reasoning-Models)
