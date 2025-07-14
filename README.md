@@ -15,6 +15,8 @@
   - [GUI Operation](#gui-operation)
   - [Evaluation](#evaluation)
   - [Survey](#survey)
+    - [Tool](#tool)
+    - [GUI](#gui)
   - [Background](#background)
 
 
@@ -36,20 +38,15 @@
 |[![Star](https://img.shields.io/github/stars/osu-nlp-group/mind2web2.svg?style=social&label=Star)](https://github.com/osu-nlp-group/mind2web2)<br>[Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506) <br> Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su |<img width="1002" alt="image" src="https://github.com/OSU-NLP-Group/Mind2Web-2/raw/main/assets/mind2web2_overview.jpg"> |[Github](https://github.com/osu-nlp-group/mind2web2) <br> [Paper](https://arxiv.org/abs/2506.21506)| [//]: #07/14
 
 #### Search Tool
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
+
 #### Image Manipulation (Crop/Rotate)
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
+
 #### Code Tool
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
+
 #### Other Tools
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
+
 #### Dynamic Tool Creation (Sandbox)
-| Title & Authors | Introduction | Links |
-|:--|  :----: | :---:|
+
 ### GUI Operation
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
@@ -63,7 +60,11 @@
 ### Evaluation
 
 ### Survey
-
+#### Tool
+#### GUI
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[GUI Agents with Foundation Models: A Comprehensive Survey](https://arxiv.org/abs/2411.04890) <br> Shuai Wang, Weiwen Liu, Jingxuan Chen, Yuqi Zhou, Weinan Gan, Xingshan Zeng, Yuhan Che, Shuai Yu, Xinlong Hao, Kun Shao, Bin Wang, Chuhan Wu, Yasheng Wang, Ruiming Tang, Jianye Hao |<img width="1002" alt="image" src="https://arxiv.org/html/2411.04890v2/x2.png"> |[Paper](https://arxiv.org/abs/2411.04890)| [//]: #07/14
 ### Background
 
 ## Acknowledgement
