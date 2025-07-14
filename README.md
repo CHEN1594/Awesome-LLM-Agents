@@ -3,10 +3,11 @@
 </div>
 
 <div align="center">
-![](https://img.shields.io/github/stars/CHEN1594/Awesome-LLM-Agents?color=yellow)
-![](https://img.shields.io/github/last-commit/CHEN1594/Awesome-LLM-Agents?color=green)
-![](https://img.shields.io/badge/PRs-Welcome-blue)
+  <img src="https://img.shields.io/github/stars/CHEN1594/Awesome-LLM-Agents?color=yellow" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/last-commit/CHEN1594/Awesome-LLM-Agents?color=green" alt="Last Commit">
+  <img src="https://img.shields.io/badge/PRs-Welcome-blue" alt="PRs Welcome">
 </div>
+
 ## Full list
 ---
 
