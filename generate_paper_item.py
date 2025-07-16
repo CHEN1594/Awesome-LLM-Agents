@@ -225,21 +225,21 @@ papers = [
     #     'conference': '',
     #     'image_path': 'https://arxiv.org/html/2506.10055v2/x3.png',
     # },
+    # {
+    #     'paper_url': 'https://arxiv.org/abs/2507.05241v2',
+    #     'paper_name': "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
+    #     'author_name': 'Jingyi Chai, Shuo Tang, Rui Ye, Yuwen Du, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen',
+    #     'github_url': 'https://github.com/sjtu-sai-agents/X-Master',
+    #     'conference': '',
+    #     'image_path': 'https://arxiv.org/html/2507.05241v2/x1.png',
+    # },
     {
-        'paper_url': 'https://arxiv.org/abs/2507.05241v2',
-        'paper_name': "SciMaster: Towards General-Purpose Scientific AI Agents, Part I. X-Master as Foundation: Can We Lead on Humanity's Last Exam?",
-        'author_name': 'Jingyi Chai, Shuo Tang, Rui Ye, Yuwen Du, Xinyu Zhu, Mengcheng Zhou, Yanfeng Wang, Weinan E, Yuzhi Zhang, Linfeng Zhang, Siheng Chen',
-        'github_url': 'https://github.com/sjtu-sai-agents/X-Master',
-        'conference': '',
-        'image_path': 'https://arxiv.org/html/2507.05241v2/x1.png',
-    },
-    {
-        'paper_url': '',
-        'paper_name': '',
-        'author_name': '',
+        'paper_url': 'https://arxiv.org/abs/2504.14870v1',
+        'paper_name': 'OTC: Optimal Tool Calls via Reinforcement Learning',
+        'author_name': 'Hongru Wang, Cheng Qian, Wanjun Zhong, Xiusi Chen, Jiahao Qiu, Shijue Huang, Bowen Jin, Mengdi Wang, Kam-Fai Wong, Heng Ji',
         'github_url': '',
         'conference': '',
-        'image_path': '',
+        'image_path': 'https://arxiv.org/html/2504.14870v1/x1.png',
     },
 ]
 
