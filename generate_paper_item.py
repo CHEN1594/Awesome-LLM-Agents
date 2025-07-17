@@ -262,7 +262,7 @@ papers = [
         'paper_name': 'StepTool: Enhancing Multi-Step Tool Usage in LLMs through Step-Grained Reinforcement Learning',
         'author_name': 'Yuanqing Yu, Zhefan Wang, Weizhi Ma, Shuai Wang, Chuhan Wu, Zhiqiang Guo, Min Zhang',
         'github_url': '',
-        'conference': ' ICLR_2025',
+        'conference': 'ICLR_2025',
         'image_path': 'figures/StepTool.png',
     },
     {
