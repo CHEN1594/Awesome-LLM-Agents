@@ -21,6 +21,7 @@
   - [Data Generation for Agent Training](#data-generation-for-agent-training)
   - [Evaluation](#evaluation)
   - [Survey](#survey)
+    - [Background](#background)
     - [Tool](#tool)
     - [GUI](#gui)
   - [Background](#background)
@@ -31,6 +32,8 @@
 ### Agent Tool Use
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[![Star](https://img.shields.io/github/stars/xfey/MCP-Zero.svg?style=social&label=Star)](https://github.com/xfey/MCP-Zero)<br>[MCP-Zero: Active Tool Discovery for Autonomous LLM Agents](https://arxiv.org/abs/2506.01056) <br> Xiang Fei, Xiawu Zheng, Hao Feng |<img width="1002" alt="image" src="https://github.com/xfey/MCP-Zero/raw/master/assets/fig1.png"> |[Github](https://github.com/xfey/MCP-Zero) <br> [Paper](https://arxiv.org/abs/2506.01056)| [//]: #07/17
+|[ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph](https://arxiv.org/abs/2403.00839) <br> Xukun Liu, Zhiyuan Peng, Xiaoyuan Yi, Xing Xie, Lirong Xiang, Yuchen Liu, Dongkuan Xu |<img width="1002" alt="image" src="figures/ToolNet.png"> |[Paper](https://arxiv.org/abs/2403.00839)| [//]: #07/17
 |[![Star](https://img.shields.io/github/stars/SPORT-Agents/SPORT-Agents.svg?style=social&label=Star)](https://github.com/SPORT-Agents/SPORT-Agents)<br>[Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning](https://arxiv.org/abs/2504.21561) <br> Pengxiang Li, Zhi Gao, Bofei Zhang, Yapeng Mi, Xiaojian Ma, Chenrui Shi, Tao Yuan, Yuwei Wu, Yunde Jia, Song-Chun Zhu, Qing Li |<img width="1002" alt="image" src="https://arxiv.org/html/2504.21561v3/x1.png"> |[Github](https://github.com/SPORT-Agents/SPORT-Agents) <br> [Paper](https://arxiv.org/abs/2504.21561)| [//]: #07/17
 |[![Star](https://img.shields.io/github/stars/NVlabs/Tool-N1.svg?style=social&label=Star)](https://github.com/NVlabs/Tool-N1)<br>[Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning](https://arxiv.org/abs/2505.00024) <br> Shaokun Zhang, Yi Dong, Jieyu Zhang, Jan Kautz, Bryan Catanzaro, Andrew Tao, Qingyun Wu, Zhiding Yu, Guilin Liu |<img width="1002" alt="image" src="https://github.com/NVlabs/Tool-N1/raw/master/assets/overview.png"> |[Github](https://github.com/NVlabs/Tool-N1) <br> [Paper](https://arxiv.org/abs/2505.00024)| [//]: #07/17
 | [![Publish](https://img.shields.io/badge/Conference-ICLR_2025-blue)]()<br>[StepTool: Enhancing Multi-Step Tool Usage in LLMs through Step-Grained Reinforcement Learning](https://arxiv.org/abs/2410.07745) <br> Yuanqing Yu, Zhefan Wang, Weizhi Ma, Shuai Wang, Chuhan Wu, Zhiqiang Guo, Min Zhang |<img width="1002" alt="image" src="figures/StepTool.png"> |[Paper](https://arxiv.org/abs/2410.07745)| [//]: #07/17
@@ -92,6 +95,7 @@
 ### Background
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+| [![Publish](https://img.shields.io/badge/Conference-NeurIPS_2024_Workshop-blue)]()<br>[Agents Thinking Fast and Slow: A Talker-Reasoner Architecture](https://arxiv.org/abs/2410.08328) <br> Konstantina Christakopoulou, Shibl Mourad, Maja Matarić |<img width="1002" alt="image" src="https://arxiv.org/html/2410.08328v1/extracted/5914711/images/agents-talk-extract-react-3.png"> |[Paper](https://arxiv.org/abs/2410.08328)| [//]: #07/17
 |[![Star](https://img.shields.io/github/stars/OPPO-PersonalAI/Agent-KB.svg?style=social&label=Star)](https://github.com/OPPO-PersonalAI/Agent-KB)<br>[Agent KB: Leveraging Cross-Domain Experience for Agentic Problem Solving](https://arxiv.org/abs/2507.06229) <br> Xiangru Tang, Tianrui Qin, Tianhao Peng, Ziyang Zhou, Daniel Shao, Tingting Du, Xinming Wei, Peng Xia, Fang Wu, He Zhu, Ge Zhang, Jiaheng Liu, Xingyao Wang, Sirui Hong, Chenglin Wu, Hao Cheng, Chi Wang, Wangchunshu Zhou |<img width="1002" alt="image" src="https://github.com/OPPO-PersonalAI/Agent-KB/raw/master/assets/agent_kb.png"> |[Github](https://github.com/OPPO-PersonalAI/Agent-KB) <br> [Paper](https://arxiv.org/abs/2507.06229)| [//]: #07/14
 ### Domain-Specific Agents
 | Title & Authors | Introduction | Links |
