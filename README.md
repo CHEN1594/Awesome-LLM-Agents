@@ -75,6 +75,10 @@
 |[![Star](https://img.shields.io/github/stars/osu-nlp-group/mind2web2.svg?style=social&label=Star)](https://github.com/osu-nlp-group/mind2web2)<br>[Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge](https://arxiv.org/abs/2506.21506) <br> Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jiménez Gutiérrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Nour Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su |<img width="1002" alt="image" src="https://github.com/OSU-NLP-Group/Mind2Web-2/raw/main/assets/mind2web2_overview.jpg"> |[Github](https://github.com/osu-nlp-group/mind2web2) <br> [Paper](https://arxiv.org/abs/2506.21506)| [//]: #07/14
 |[![Star](https://img.shields.io/github/stars/metauto-ai/agent-as-a-judge.svg?style=social&label=Star)](https://github.com/metauto-ai/agent-as-a-judge) [![Publish](https://img.shields.io/badge/Conference-ICML_2025-blue)]()<br>[Agent-as-a-Judge: Evaluate Agents with Agents](https://arxiv.org/abs/2410.10934) <br> Mingchen Zhuge, Changsheng Zhao, Dylan Ashley, Wenyi Wang, Dmitrii Khizbullin, Yunyang Xiong, Zechun Liu, Ernie Chang, Raghuraman Krishnamoorthi, Yuandong Tian, Yangyang Shi, Vikas Chandra, Jürgen Schmidhuber |<img width="1002" alt="image" src="https://arxiv.org/html/2410.10934v2/x1.png"> |[Github](https://github.com/metauto-ai/agent-as-a-judge) <br> [Paper](https://arxiv.org/abs/2410.10934)| [//]: #07/14
 ### Survey
+#### Background
+| Title & Authors | Introduction | Links |
+|:--|  :----: | :---:|
+|[A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) <br> Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen |<img width="1002" alt="image" src="https://arxiv.org/html/2308.11432v7/x2.png"> |[Paper](https://arxiv.org/abs/2308.11432)| [//]: #07/17
 #### Tool
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
