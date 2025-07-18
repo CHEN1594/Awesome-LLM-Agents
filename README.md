@@ -48,16 +48,6 @@
 |[![Star](https://img.shields.io/github/stars/sunnynexus/Search-o1.svg?style=social&label=Star)](https://github.com/sunnynexus/Search-o1)<br>[Search-o1: Agentic Search-Enhanced Large Reasoning Models](https://arxiv.org/abs/2501.05366) <br> Xiaoxi Li, Guanting Dong, Jiajie Jin, Yuyao Zhang, Yujia Zhou, Yutao Zhu, Peitian Zhang, Zhicheng Dou |<img width="1002" alt="image" src="https://arxiv.org/html/2501.05366v1/x2.png"> |[Github](https://github.com/sunnynexus/Search-o1) <br> [Paper](https://arxiv.org/abs/2501.05366)| [//]: #07/14
 |[![Star](https://img.shields.io/github/stars/EvolvingLMMs-Lab/multimodal-search-r1.svg?style=social&label=Star)](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1)<br>[MMSearch-R1: Incentivizing LMMs to Search](https://arxiv.org/abs/2506.20670) <br> Jinming Wu, Zihao Deng, Wei Li, Yiding Liu, Bo You, Bo Li, Zejun Ma, Ziwei Liu |<img width="1002" alt="image" src="https://arxiv.org/html/2506.20670v1/x1.png"> |[Github](https://github.com/EvolvingLMMs-Lab/multimodal-search-r1) <br> [Paper](https://arxiv.org/abs/2506.20670)| [//]: #07/14
 |[![Star](https://img.shields.io/github/stars/yhy-2000/VideoDeepResearch.svg?style=social&label=Star)](https://github.com/yhy-2000/VideoDeepResearch)<br>[VideoDeepResearch: Long Video Understanding With Agentic Tool Using](https://arxiv.org/abs/2506.10821) <br> Huaying Yuan, Zheng Liu, Junjie Zhou, Hongjin Qian, Ji-Rong Wen, Zhicheng Dou |<img width="1002" alt="image" src="https://arxiv.org/html/2506.10821v2/x2.png"> |[Github](https://github.com/yhy-2000/VideoDeepResearch) <br> [Paper](https://arxiv.org/abs/2506.10821)| [//]: #07/14
-#### Search Tool
-
-#### Image Manipulation (Crop/Rotate)
-
-#### Code Tool
-
-#### Other Tools
-
-#### Dynamic Tool Creation (Sandbox)
-
 ### GUI Operation
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
