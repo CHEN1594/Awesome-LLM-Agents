@@ -353,14 +353,14 @@ papers = [
     #     'conference': '',
     #     'image_path': '',
     # },
-    {
-        'paper_url': 'https://arxiv.org/abs/2504.13865',
-        'paper_name': 'A Survey on (M)LLM-Based GUI Agents',
-        'author_name': 'Fei Tang, Haolei Xu, Hang Zhang, Siqi Chen, Xingyu Wu, Yongliang Shen, Wenqi Zhang, Guiyang Hou, Zeqi Tan, Yuchen Yan, Kaitao Song, Jian Shao, Weiming Lu, Jun Xiao, Yueting Zhuang',
-        'github_url': 'https://github.com/zju-real/Awesome-GUI-Agents',
-        'conference': '',
-        'image_path': 'https://arxiv.org/html/2504.13865v2/x3.png',
-    },
+    # {
+    #     'paper_url': 'https://arxiv.org/abs/2504.13865',
+    #     'paper_name': 'A Survey on (M)LLM-Based GUI Agents',
+    #     'author_name': 'Fei Tang, Haolei Xu, Hang Zhang, Siqi Chen, Xingyu Wu, Yongliang Shen, Wenqi Zhang, Guiyang Hou, Zeqi Tan, Yuchen Yan, Kaitao Song, Jian Shao, Weiming Lu, Jun Xiao, Yueting Zhuang',
+    #     'github_url': 'https://github.com/zju-real/Awesome-GUI-Agents',
+    #     'conference': '',
+    #     'image_path': 'https://arxiv.org/html/2504.13865v2/x3.png',
+    # },
     # {
     #     'paper_url': 'https://arxiv.org/abs/2307.13854',
     #     'paper_name': 'WebArena: A Realistic Web Environment for Building Autonomous Agents',
@@ -385,6 +385,14 @@ papers = [
     #     'conference': 'NeurIPS_2024',
     #     'image_path': 'https://arxiv.org/html/2406.14991v2/x2.png',
     # },
+    {
+        'paper_url': 'https://arxiv.org/abs/2503.23037',
+        'paper_name': 'Agentic Large Language Models, a survey',
+        'author_name': 'Aske Plaat, Max van Duijn, Niki van Stein, Mike Preuss, Peter van der Putten, Kees Joost Batenburg',
+        'github_url': '',
+        'conference': '',
+        'image_path': 'https://arxiv.org/html/2503.23037v2/extracted/6333817/figures/assistant.png',
+    },
 ]
 # {
     #     'paper_url': '',

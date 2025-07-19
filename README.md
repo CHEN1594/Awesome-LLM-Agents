@@ -78,6 +78,7 @@
 #### Background
 | Title & Authors | Introduction | Links |
 |:--|  :----: | :---:|
+|[Agentic Large Language Models, a survey](https://arxiv.org/abs/2503.23037) <br> Aske Plaat, Max van Duijn, Niki van Stein, Mike Preuss, Peter van der Putten, Kees Joost Batenburg |<img width="1002" alt="image" src="https://arxiv.org/html/2503.23037v2/extracted/6333817/figures/assistant.png"> |[Paper](https://arxiv.org/abs/2503.23037)| [//]: #07/19
 |[A Survey on Large Language Model based Autonomous Agents](https://arxiv.org/abs/2308.11432) <br> Lei Wang, Chen Ma, Xueyang Feng, Zeyu Zhang, Hao Yang, Jingsen Zhang, Zhiyuan Chen, Jiakai Tang, Xu Chen, Yankai Lin, Wayne Xin Zhao, Zhewei Wei, Ji-Rong Wen |<img width="1002" alt="image" src="https://arxiv.org/html/2308.11432v7/x2.png"> |[Paper](https://arxiv.org/abs/2308.11432)| [//]: #07/17
 #### Tool
 | Title & Authors | Introduction | Links |
